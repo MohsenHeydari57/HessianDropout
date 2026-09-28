@@ -18,7 +18,6 @@ from tensorflow.keras.callbacks import Callback, LearningRateScheduler
 import time
 import os
 
-
 np.random.seed(42)
 tf.random.set_seed(42)
 
